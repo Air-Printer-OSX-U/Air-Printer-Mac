@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.canon.ru/media/3_tcm203-1946974.png" alt="Air Printer screenshot"/>
+  <img src="https://www.geekbitzone.com/posts/2021/macos/airprint/img/macos-airprint-1.png" alt="Air Printer screenshot"/>
 </p>
 
 ---
